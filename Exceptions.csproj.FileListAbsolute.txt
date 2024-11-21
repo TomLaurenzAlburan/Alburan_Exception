@@ -1,0 +1,10 @@
+C:\Users\pc\Source\Repos\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\pc\Source\Repos\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\pc\Source\Repos\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\pc\Source\Repos\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\pc\Source\Repos\Exceptions\Exceptions\obj\Debug\Exceptions.frmAddProduct.resources
+C:\Users\pc\Source\Repos\Exceptions\Exceptions\obj\Debug\Exceptions.Properties.Resources.resources
+C:\Users\pc\Source\Repos\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.GenerateResource.cache
+C:\Users\pc\Source\Repos\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\pc\Source\Repos\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\pc\Source\Repos\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
